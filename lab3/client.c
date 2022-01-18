@@ -28,7 +28,6 @@ int main()
 		exit(1);
 	}
 	
-	int num;
 	while(1){
 		memset(ch,0, 20);
 		scanf("%s", ch);
